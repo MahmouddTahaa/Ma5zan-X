@@ -1,0 +1,4 @@
+pyodbc>=5.0
+faker>=24.0
+click>=8.0
+python-dotenv>=1.0
